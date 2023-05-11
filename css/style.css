@@ -1,0 +1,55 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .text1{
+    color: #929292;
+    font-weight: bold;
+    border-bottom: 1px solid #c2c2c2;
+    padding-bottom: 20px;
+  }
+ 
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .header {
+    padding-bottom: 20px;
+   
+  }
+  .header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+  }
+  .footer {
+    padding-top: 19px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+  }
+  .container-narrow > hr {
+    margin: 30px 0;
+  }
+  .jumbotron {
+    text-align: center;
+    background-color: #eeeaea;
+    padding: 0px 120px;
+    max-width: 95%;
+    margin: auto;
+  }
+  .jumbotron .btn {
+    padding: 8px 10px;
+    
+  } 
+  .marketing {
+    margin: 40px 0;
+    border-top: 1px solid #c2c2c2;
+    padding-top: 20px;
+  }
+  .marketing p + h4 {
+    margin-top: 28px;
+  }
+  
+ 
